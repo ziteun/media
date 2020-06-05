@@ -7,8 +7,8 @@ title: 과제 제출용
 email: verano@korea.com
 description: Welcome to GODEUN.
 # url: https://allaboutchu.github.io # the base hostname & protocol for your site
-url: https://ziteun.com   # https protocol 포함
-enforce_ssl: ziteun.com   # protocol 없이
+url: https://zitteun.github.io/media   # https protocol 포함
+enforce_ssl: zitteun.github.io/media   # protocol 없이
 keywords: ["Objective-C","Swift", "iOS", "Server"]
 
 #
