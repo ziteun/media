@@ -5,10 +5,10 @@
 #
 title: 과제 제출용
 email: verano@korea.com
-description: Welcome to GODEUN.
+description: Welcome
 # url: https://allaboutchu.github.io # the base hostname & protocol for your site
-url: https://zitteun.github.io/media   # https protocol 포함
-enforce_ssl: zitteun.github.io/media   # protocol 없이
+url: https://ziteun.github.io/media   # https protocol 포함
+enforce_ssl: ziteun.github.io/media   # protocol 없이
 keywords: ["Objective-C","Swift", "iOS", "Server"]
 
 #
@@ -55,7 +55,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: godeun
+  name: 김동욱
   avatar: img-p.png
   job: "iOS Developer"
   bio: "낯선 컴퓨터는 믿지 않는게 좋아."
