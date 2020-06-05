@@ -1,0 +1,89 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: 과제 제출용
+email: verano@korea.com
+description: Welcome to GODEUN.
+# url: https://allaboutchu.github.io # the base hostname & protocol for your site
+url: https://ziteun.com   # https protocol 포함
+enforce_ssl: ziteun.com   # protocol 없이
+keywords: ["Objective-C","Swift", "iOS", "Server"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Asia/Seoul
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+gems: [jekyll-paginate]
+
+# More › http://kramdown.gettalong.org/quickref.html
+# Options › http://kramdown.gettalong.org/options.html
+kramdown:
+  input:          GFM
+  # https://github.com/jekyll/jekyll/pull/4090
+  syntax_highlighter: rouge
+
+  # Rouge Highlighter in Kramdown › http://kramdown.gettalong.org/syntax_highlighter/rouge.html
+  # span, block element options fall back to global
+  syntax_highlighter_opts:
+    # Rouge Options › https://github.com/jneen/rouge#full-options
+    css_class: 'highlight'
+    #line_numbers: true # bad idea, spans don't need linenos and would inherit this option
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+# kramdown:
+#   auto_ids: true
+#   footnote_nr: 1
+#   entity_output: as_char
+#   toc_levels: 1..6
+#   enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: godeun
+  avatar: img-p.png
+  job: "iOS Developer"
+  bio: "낯선 컴퓨터는 믿지 않는게 좋아."
+  email: verano@korea.com
+  disqus-shortname: allaboutchu
+  twitter: #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-89946749-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: allaboutchu #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+  telegram: #username

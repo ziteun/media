@@ -1,0 +1,24 @@
+- name: 인슈넷 보험 용어 사전
+  descr: "iOS/안드로이드 런칭 예정"
+  # image: pong.png
+  # github: https://github.com/
+
+- name: 노라네코 타로
+  descr: "iOS 일본 런칭 예정"
+  # image: pong.png
+  # github: https://github.com/
+
+- name: 베이비프렌즈
+  descr: "iOS 유지/보수"
+  # image: pong.png
+  # github: https://github.com/
+
+- name: 보맵
+  descr: "iOS 버전 참여"
+  # image: pong.png
+  # github: https://github.com/
+
+- name: T아카데미
+  descr: "안드로이드 교육과정 / 안드로이드 어플리케이션 프로젝트 진행"
+  # image: pong.png
+  # github: https://github.com/
