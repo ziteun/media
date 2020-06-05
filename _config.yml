@@ -58,7 +58,7 @@ owner:
   name: 김동욱
   avatar: img-p.png
   job: "iOS Developer"
-  bio: "낯선 컴퓨터는 믿지 않는게 좋아."
+  bio: "한양사이버대학교"
   email: verano@korea.com
   disqus-shortname: allaboutchu
   twitter: #username
@@ -70,7 +70,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: allaboutchu #username
+  github: ziteun #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username

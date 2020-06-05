@@ -1,3 +1,2 @@
 Kim Dong Uk
-https://allaboutchu.github.io
-https://godeun.com
+https://ziteun.github.io/media
